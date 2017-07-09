@@ -1,3 +1,6 @@
+## info
+32bit NASM
+
 ## アセンブル
 nasm -f macho hello.asm
 
